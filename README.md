@@ -66,6 +66,13 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="732" height="469" alt="Screenshot 2025-08-27 125235" src="https://github.com/user-attachments/assets/bc5f5530-af1e-4b8c-9f39-4b77a7243960" />
+<img width="665" height="442" alt="Screenshot 2025-08-27 130853" src="https://github.com/user-attachments/assets/9cb4ed03-1e20-4242-b292-7dd7a6679c6c" />
+
+
+
+
+
 
 ## 2. SUBTRACTION
 
@@ -148,6 +155,11 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="627" height="422" alt="Screenshot 2025-08-28 083520" src="https://github.com/user-attachments/assets/4c5f04b6-2286-4428-8eb1-a15bcf4c72a3" />
+<img width="622" height="422" alt="Screenshot 2025-08-28 083212" src="https://github.com/user-attachments/assets/498e5260-310f-4063-96c5-61ab34104127" />
+
+
 
 ## 4. DIVISION
 

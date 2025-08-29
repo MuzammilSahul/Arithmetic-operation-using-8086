@@ -61,7 +61,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![add manual calculation](https://github.com/user-attachments/assets/310f99c0-5960-41a9-83fd-5a23df42d580)
+
 
 ---
 
@@ -101,12 +102,18 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![submanualcalculation](https://github.com/user-attachments/assets/4c73f6a9-3e01-4176-8e9c-1407f976aee9)
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="637" height="430" alt="Screenshot 2025-08-29 103922" src="https://github.com/user-attachments/assets/185b6776-e7ef-4f6e-8dd9-148240e5b1dd" />
+<img width="658" height="459" alt="Screenshot 2025-08-29 103307" src="https://github.com/user-attachments/assets/9436c060-0fb0-4cfc-a25d-52ea9bce02b8" />
+
+
 
 ## 3. MULTIPLICATION
 
@@ -150,7 +157,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![multiplicationmanualcalculation](https://github.com/user-attachments/assets/70ddff3b-a312-4bde-8958-08b3fbe5ad8e)
+
 
 ---
 
@@ -200,7 +208,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![divisionmanualcalculation](https://github.com/user-attachments/assets/e016a2bf-fd7f-4115-9b71-fdd23ebc3dbe)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE

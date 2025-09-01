@@ -56,8 +56,9 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+ ----------------------- | ------------------------ |
+| <img width="732" height="469" alt="Screenshot 2025-08-27 125235" src="https://github.com/user-attachments/assets/680b969d-68e3-444a-96b0-0cc2821e907d" />
+                        |    <img width="665" height="442" alt="Screenshot 2025-08-27 130853" src="https://github.com/user-attachments/assets/9cb4ed03-1e20-4242-b292-7dd7a6679c6c" />                      |
 
 #### Manual Calculations
 
@@ -67,7 +68,7 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="732" height="469" alt="Screenshot 2025-08-27 125235" src="https://github.com/user-attachments/assets/bc5f5530-af1e-4b8c-9f39-4b77a7243960" />
+
 <img width="665" height="442" alt="Screenshot 2025-08-27 130853" src="https://github.com/user-attachments/assets/9cb4ed03-1e20-4242-b292-7dd7a6679c6c" />
 
 
@@ -98,7 +99,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| <img width="637" height="430" alt="Screenshot 2025-08-29 103922" src="https://github.com/user-attachments/assets/185b6776-e7ef-4f6e-8dd9-148240e5b1dd" />                        |     <img width="658" height="459" alt="Screenshot 2025-08-29 103307" src="https://github.com/user-attachments/assets/9436c060-0fb0-4cfc-a25d-52ea9bce02b8" />                     |
 
 #### Manual Calculations
 
@@ -109,9 +110,6 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="637" height="430" alt="Screenshot 2025-08-29 103922" src="https://github.com/user-attachments/assets/185b6776-e7ef-4f6e-8dd9-148240e5b1dd" />
-<img width="658" height="459" alt="Screenshot 2025-08-29 103307" src="https://github.com/user-attachments/assets/9436c060-0fb0-4cfc-a25d-52ea9bce02b8" />
 
 
 
@@ -153,7 +151,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| <img width="627" height="422" alt="Screenshot 2025-08-28 083520" src="https://github.com/user-attachments/assets/4c5f04b6-2286-4428-8eb1-a15bcf4c72a3" />                        |  <img width="622" height="422" alt="Screenshot 2025-08-28 083212" src="https://github.com/user-attachments/assets/498e5260-310f-4063-96c5-61ab34104127" />                        |
 
 #### Manual Calculations
 
@@ -163,9 +161,6 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="627" height="422" alt="Screenshot 2025-08-28 083520" src="https://github.com/user-attachments/assets/4c5f04b6-2286-4428-8eb1-a15bcf4c72a3" />
-<img width="622" height="422" alt="Screenshot 2025-08-28 083212" src="https://github.com/user-attachments/assets/498e5260-310f-4063-96c5-61ab34104127" />
 
 
 
@@ -204,7 +199,7 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| <img width="637" height="426" alt="Screenshot 2025-08-28 085220" src="https://github.com/user-attachments/assets/44fe55d6-a96e-4d2e-88d5-f942d11d4235" />                        |     <img width="628" height="428" alt="Screenshot 2025-08-28 085052" src="https://github.com/user-attachments/assets/3ed28917-8274-4f6b-b0dc-bed5f779f3ca" />                     |
 
 #### Manual Calculations
 
@@ -213,11 +208,6 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
-<img width="637" height="426" alt="Screenshot 2025-08-28 085220" src="https://github.com/user-attachments/assets/44fe55d6-a96e-4d2e-88d5-f942d11d4235" />
-
-
-<img width="628" height="428" alt="Screenshot 2025-08-28 085052" src="https://github.com/user-attachments/assets/3ed28917-8274-4f6b-b0dc-bed5f779f3ca" />
 
 
 

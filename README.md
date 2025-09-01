@@ -58,8 +58,7 @@ END
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
  ----------------------- | ------------------------ |
 | <img width="732" height="469" alt="Screenshot 2025-08-27 125235" src="https://github.com/user-attachments/assets/680b969d-68e3-444a-96b0-0cc2821e907d" />
-                        |  <img width="665" height="442" alt="Screenshot 2025-08-27 130853" src="https://github.com/user-attachments/assets/91be1e05-0835-48ae-878c-a0760947baa2" />
-                |
+                        | | <img width="665" height="442" alt="Screenshot 2025-08-27 130853" src="https://github.com/user-attachments/assets/91be1e05-0835-48ae-878c-a0760947baa2" />|
 
 #### Manual Calculations
 

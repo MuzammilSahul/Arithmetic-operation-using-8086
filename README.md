@@ -65,7 +65,7 @@ END
   
 #### Manual Calculations
 
-(https://github.com/user-attachments/assets/310f99c0-5960-41a9-83fd-5a23df42d580)
+![add manual calculation](https://github.com/user-attachments/assets/9ca5c478-cef2-482d-9082-9cd341694b21)
 
 
 ---

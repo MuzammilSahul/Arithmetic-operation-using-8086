@@ -57,7 +57,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
  ----------------------- | ------------------------ |
-| 1200h =12   1201h=34   1202h=12 1203h=34        |      1204h=24     1205h=68  1206h=00h|
+| 1200h =12   
+  1201h=34   
+  1202h=12 
+  1203h=34        |1204h=24
+  1205h=68|
   
   
   
@@ -102,7 +106,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                       |                      |
+| 1200h=12
+  1201h=34
+  1202h=12
+  1203h=34| 1204h=00
+  1205h=00|
 
 #### Manual Calculations
 
@@ -155,7 +163,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                |                   |
+|  1200h=12
+   1201h=34
+   1202h=12
+   1203h=34| 1204h=44
+   1205h=51
+   1206h=97
+   1207h=0A|
 
 #### Manual Calculations
 
@@ -204,7 +218,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                      |                      |
+| 1200h=12
+1201h=34
+1202h=12
+1203h=34|  1204h=01
+1205h=00
+1206h=00
+1207h=00|
 
 #### Manual Calculations
 
